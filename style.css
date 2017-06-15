@@ -1,0 +1,125 @@
+.header {
+	height: 140px;
+	font-size:40px;
+	background:BurlyWood;
+	border: 1px solid black;
+	width:99.9%;
+	
+}
+
+.menu 
+.menu {
+	float: left;
+	background: lightgreen;
+	height:99px;
+	font-size: 30px;
+	width: 57%;
+	text-align:center;
+	border: 1px solid black;
+	
+}
+
+.menu 
+.zone { 
+
+	float: left;
+	background: pink;
+	height:99px;
+	font-size:35px;
+	width:42%;
+	text-align:center;
+	border: 1px solid gray;
+}
+
+.main 
+.contact  {
+	float:left;
+	background:lightgreen;
+	height:99px;
+	font-size:30px;
+	width: 25%;
+	text-align: center;
+	border: 1px solid gray;
+	
+
+	
+}
+
+.main 
+.breadcrumb {
+	float: left;
+	background: lightyellow;
+	height:100px;
+	font-size:30px;
+	width:70%;
+	border: 1px solid gray;
+	
+	
+	
+}
+
+.main 
+.content1 {
+	float:left;
+	background: lightgrey;
+	height:220px;
+	font-size:30px;
+	width:30%;
+	text-align:center;
+	border: 1px solid gray;
+	
+	
+}
+
+.main .content2 {
+	float: left;
+	background: lightgreen;
+	height:220px;
+	font-size:30px;
+	width:69%;
+	border: 1px solid gray;
+	
+	
+	
+}
+
+.footer 
+.foot1{
+    float: left;
+    background: burlywood;
+    height: 100px;
+    font-size: 25px;  
+    width: 24.5%; 
+    text-align: center;
+    border: 1px solid gray;
+}
+.footer 
+.foot2{
+    float: left;
+    background: burlywood;
+    height: 100px;
+    font-size: 25px;  
+    width: 24.5%; 
+    text-align: center;
+    border: 1px solid gray;
+}
+.footer
+ .foot3{
+    float: left;
+    background: burlywood;
+    height: 100px;
+    font-size: 25px;  
+    width: 24.5%; 
+    text-align: center;
+    border: 1px solid gray;
+}
+.footer 
+.foot4{
+    text-align: center;
+    float: left;
+    background: burlywood;
+    height: 100px;
+    font-size: 25px;  
+    width: 24.5%; 
+    border: 1px solid gray;
+}
